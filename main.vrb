@@ -1,0 +1,7 @@
+\frametitle{Including Code}
+        \begin{semiverbatim}
+            \\begin\{frame\}
+            \\frametitle\{Outline\}
+            \\tableofcontents
+            \\end\{frame\}
+        \end{semiverbatim}
