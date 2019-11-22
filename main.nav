@@ -1,30 +1,255 @@
+\defcounter {refsection}{0}\relax 
 \headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\defcounter {refsection}{0}\relax 
 \headcommand {\beamer@framepages {1}{1}}
+\defcounter {refsection}{0}\relax 
 \headcommand {\slideentry {0}{0}{2}{2/2}{}{0}}
+\defcounter {refsection}{0}\relax 
 \headcommand {\beamer@framepages {2}{2}}
+\defcounter {refsection}{0}\relax 
 \headcommand {\beamer@sectionpages {1}{2}}
+\defcounter {refsection}{0}\relax 
 \headcommand {\beamer@subsectionpages {1}{2}}
-\headcommand {\sectionentry {1}{Section 1}{3}{Section 1}{0}}
-\headcommand {\beamer@subsectionpages {3}{2}}
-\headcommand {\beamer@subsectionentry {0}{1}{1}{3}{sub a}}
-\headcommand {\slideentry {1}{1}{1}{3/3}{sub a}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\sectionentry {1}{A Silly Idea}{3}{A Silly Idea}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {1}{0}{1}{3/3}{}{0}}
+\defcounter {refsection}{0}\relax 
 \headcommand {\beamer@framepages {3}{3}}
-\headcommand {\slideentry {1}{1}{2}{4/4}{sub a}{0}}
-\headcommand {\beamer@framepages {4}{4}}
-\headcommand {\slideentry {1}{1}{3}{5/5}{sub a}{0}}
-\headcommand {\beamer@framepages {5}{5}}
-\headcommand {\slideentry {1}{1}{4}{6/6}{sub a}{0}}
-\headcommand {\beamer@framepages {6}{6}}
-\headcommand {\slideentry {1}{1}{5}{7/9}{sub a}{0}}
-\headcommand {\beamer@framepages {7}{9}}
-\headcommand {\slideentry {1}{1}{6}{10/10}{sub a}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {1}{0}{2}{4/5}{}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {4}{5}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {1}{0}{3}{6/8}{}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {6}{8}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {1}{0}{4}{9/9}{}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {9}{9}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {1}{0}{5}{10/10}{}{0}}
+\defcounter {refsection}{0}\relax 
 \headcommand {\beamer@framepages {10}{10}}
-\headcommand {\slideentry {1}{1}{7}{11/11}{sub a}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {1}{0}{6}{11/11}{}{0}}
+\defcounter {refsection}{0}\relax 
 \headcommand {\beamer@framepages {11}{11}}
-\headcommand {\slideentry {1}{1}{8}{12/12}{sub a}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {1}{0}{7}{12/12}{}{0}}
+\defcounter {refsection}{0}\relax 
 \headcommand {\beamer@framepages {12}{12}}
-\headcommand {\beamer@partpages {1}{12}}
-\headcommand {\beamer@subsectionpages {3}{12}}
-\headcommand {\beamer@sectionpages {3}{12}}
-\headcommand {\beamer@documentpages {12}}
-\headcommand {\gdef \inserttotalframenumber {10}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {1}{0}{8}{13/13}{}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {13}{13}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {1}{0}{9}{14/14}{}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {14}{14}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {1}{0}{10}{15/16}{}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {15}{16}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {1}{0}{11}{17/19}{}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {17}{19}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {1}{0}{12}{20/22}{}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {20}{22}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {1}{0}{13}{23/23}{}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {23}{23}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@sectionpages {3}{23}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {3}{23}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\sectionentry {2}{Playing Around With Our New Toy}{24}{Playing Around With Our New Toy}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {2}{0}{1}{24/24}{}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {24}{24}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {2}{0}{2}{25/28}{}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {25}{28}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {2}{0}{3}{29/29}{}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {29}{29}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {2}{0}{4}{30/30}{}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {30}{30}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {2}{0}{5}{31/32}{}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {31}{32}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {2}{0}{6}{33/35}{}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {33}{35}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {2}{0}{7}{36/36}{}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {36}{36}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {2}{0}{8}{37/37}{}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {37}{37}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@sectionpages {24}{37}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {24}{37}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\sectionentry {3}{Fourier's Physics Playground}{38}{Fourier's Physics Playground}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {38}{37}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionentry {0}{3}{1}{38}{Maxwell's Electrodynamics}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {3}{1}{1}{38/38}{Maxwell's Electrodynamics}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {38}{38}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {3}{1}{2}{39/40}{Maxwell's Electrodynamics}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {39}{40}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {3}{1}{3}{41/41}{Maxwell's Electrodynamics}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {41}{41}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {3}{1}{4}{42/42}{Maxwell's Electrodynamics}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {42}{42}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {3}{1}{5}{43/43}{Maxwell's Electrodynamics}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {43}{43}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {3}{1}{6}{44/44}{Maxwell's Electrodynamics}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {44}{44}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {3}{1}{7}{45/45}{Maxwell's Electrodynamics}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {45}{45}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {3}{1}{8}{46/46}{Maxwell's Electrodynamics}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {46}{46}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {3}{1}{9}{47/50}{Maxwell's Electrodynamics}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {47}{50}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {3}{1}{10}{51/52}{Maxwell's Electrodynamics}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {51}{52}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {3}{1}{11}{53/54}{Maxwell's Electrodynamics}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {53}{54}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {3}{1}{12}{55/57}{Maxwell's Electrodynamics}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {55}{57}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {3}{1}{13}{58/60}{Maxwell's Electrodynamics}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {58}{60}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {3}{1}{14}{61/62}{Maxwell's Electrodynamics}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {61}{62}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {3}{1}{15}{63/65}{Maxwell's Electrodynamics}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {63}{65}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {3}{1}{16}{66/66}{Maxwell's Electrodynamics}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {66}{66}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {3}{1}{17}{67/67}{Maxwell's Electrodynamics}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {67}{67}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {3}{1}{18}{68/68}{Maxwell's Electrodynamics}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {68}{68}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {38}{68}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionentry {0}{3}{2}{69}{Heisenberg's Uncertainty Principle}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {3}{2}{1}{69/69}{Heisenberg's Uncertainty Principle}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {69}{69}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {3}{2}{2}{70/71}{Heisenberg's Uncertainty Principle}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {70}{71}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {3}{2}{3}{72/73}{Heisenberg's Uncertainty Principle}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {72}{73}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {3}{2}{4}{74/74}{Heisenberg's Uncertainty Principle}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {74}{74}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {3}{2}{5}{75/76}{Heisenberg's Uncertainty Principle}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {75}{76}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {3}{2}{6}{77/77}{Heisenberg's Uncertainty Principle}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {77}{77}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {3}{2}{7}{78/78}{Heisenberg's Uncertainty Principle}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {78}{78}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {3}{2}{8}{79/79}{Heisenberg's Uncertainty Principle}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {79}{79}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@sectionpages {38}{79}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {69}{79}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\sectionentry {4}{Acknowledgments}{80}{Acknowledgments}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {4}{0}{1}{80/80}{}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {80}{80}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@sectionpages {80}{80}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {80}{80}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\sectionentry {5}{References}{81}{References}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {5}{0}{1}{81/81}{}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {81}{81}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@sectionpages {81}{81}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@subsectionpages {81}{81}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {6}{0}{1}{82/82}{}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {82}{82}}
+\headcommand {\beamer@partpages {1}{82}}
+\headcommand {\beamer@subsectionpages {82}{82}}
+\headcommand {\beamer@sectionpages {82}{82}}
+\headcommand {\beamer@documentpages {82}}
+\headcommand {\gdef \inserttotalframenumber {52}}
