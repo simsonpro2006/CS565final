@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.11.22)  22 NOV 2019 13:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.11.22)  22 NOV 2019 14:13
 entering extended mode
 **./main.tex
 (main.tex
@@ -1623,7 +1623,17 @@ Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
 Package biblatex Info: Reference section=0 on input line 15.
 Package biblatex Info: Reference segment=0 on input line 15.
- (main.nav) [1
+ (main.nav)
+Overfull \hbox (17.75095pt too wide) in paragraph at lines 15--15
+ [][][][]  
+ []
+
+
+Overfull \hbox (17.75095pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[1
 Non-PDF special ignored!
 <special> header=pstricks.pro
 Non-PDF special ignored!
@@ -1640,284 +1650,81 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> ps:tx@Dict begin  gsave STV CP T /ps@refangle 0.  def grestore  e...
 {C:/Users/dunna/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (main.toc)
+Overfull \hbox (17.75095pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
 [2
 
-] (chapters/a-silly-idea.tex [3
+] (chapters/database-section.tex
+Overfull \hbox (17.75095pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[3
 
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 13.
+Overfull \hbox (17.75095pt too wide) has occurred while \output is active
+ [][][][]  
+ []
 
+[4
 
-("C:\Users\dunna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 13.
+]) (chapters/coding-section.tex
+Overfull \hbox (17.75095pt too wide) has occurred while \output is active
+ [][][][]  
+ []
 
-("C:\Users\dunna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [4
-
-] [5
-
-] [6
-
-] [7
-
-] [8
+[5
 
 ]
-<images/coke.jpg, id=283, 1027.84pt x 685.56125pt>
-File: images/coke.jpg Graphic file (type jpg)
-<use images/coke.jpg>
-Package pdftex.def Info: images/coke.jpg  used on input line 32.
-(pdftex.def)             Requested size: 273.83728pt x 182.64572pt.
- [9
+Overfull \hbox (17.75095pt too wide) has occurred while \output is active
+ [][][][]  
+ []
 
- <./images/coke.jpg>]
-<images/fourier-1.pdf, id=311, 358.26851pt x 106.14656pt>
-File: images/fourier-1.pdf Graphic file (type pdf)
-<use images/fourier-1.pdf>
-Package pdftex.def Info: images/fourier-1.pdf  used on input line 37.
-(pdftex.def)             Requested size: 308.06367pt x 91.27615pt.
- [10
+[6
 
- <./images/fourier-1.pdf>]
-<images/fourier-2.pdf, id=341, 536.60173pt x 106.14656pt>
-File: images/fourier-2.pdf Graphic file (type pdf)
-<use images/fourier-2.pdf>
-Package pdftex.def Info: images/fourier-2.pdf  used on input line 42.
-(pdftex.def)             Requested size: 308.06367pt x 60.93823pt.
+]
+Overfull \hbox (17.75095pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[7
+
+]) (chapters/livedemo-section.tex
+Overfull \hbox (17.75095pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[8
+
+]
+Overfull \hbox (17.75095pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[9
+
+]) (chapters/conclusion-section.tex
+Overfull \hbox (17.75095pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[10
+
+]
+Overfull \hbox (17.75095pt too wide) has occurred while \output is active
+ [][][][]  
+ []
 
 [11
 
- <./images/fourier-2.pdf>]
-<images/fourier-3.pdf, id=371, 412.51035pt x 106.14656pt>
-File: images/fourier-3.pdf Graphic file (type pdf)
-<use images/fourier-3.pdf>
-Package pdftex.def Info: images/fourier-3.pdf  used on input line 47.
-(pdftex.def)             Requested size: 308.06367pt x 79.27121pt.
- [12
-
- <./images/fourier-3.pdf>]
-<images/fourier-4.pdf, id=401, 358.26851pt x 106.14656pt>
-File: images/fourier-4.pdf Graphic file (type pdf)
-<use images/fourier-4.pdf>
-Package pdftex.def Info: images/fourier-4.pdf  used on input line 52.
-(pdftex.def)             Requested size: 308.06367pt x 91.27615pt.
- [13
-
- <./images/fourier-4.pdf>]
-<images/fourier-5.pdf, id=432, 364.66779pt x 302.45857pt>
-File: images/fourier-5.pdf Graphic file (type pdf)
-<use images/fourier-5.pdf>
-Package pdftex.def Info: images/fourier-5.pdf  used on input line 57.
-(pdftex.def)             Requested size: 210.5003pt x 174.58861pt.
- [14
-
- <./images/fourier-5.pdf>] [15
-
-] [16
-
-] [17
-
-] [18
-
-] [19
-
-] [20
-
-] [21
-
-]
-[22
-
-] [23
-
-]) (chapters/playing-around.tex [24
-
-] [25
-
-] [26
-
-] [27
-
-] [28
-
-]
-<images/Pulse1.pdf, id=847, 727.85991pt x 494.94098pt>
-File: images/Pulse1.pdf Graphic file (type pdf)
-<use images/Pulse1.pdf>
-Package pdftex.def Info: images/Pulse1.pdf  used on input line 30.
-(pdftex.def)             Requested size: 256.7428pt x 174.58861pt.
- [29
-
- <./images/Pulse1.pdf>]
-<images/Pulse1-Fourier.pdf, id=902, 725.83672pt x 494.94098pt>
-File: images/Pulse1-Fourier.pdf Graphic file (type pdf)
-<use images/Pulse1-Fourier.pdf>
-Package pdftex.def Info: images/Pulse1-Fourier.pdf  used on input line 39.
-(pdftex.def)             Requested size: 237.74371pt x 162.11717pt.
- [30
-
- <./images/Pulse1-Fourier.pdf>] [31
-
-] [32
-
-] [33
-
-] [34
-
-] [35
-
-]
-<images/Pulse2.pdf, id=1097, 727.85991pt x 494.94098pt>
-File: images/Pulse2.pdf Graphic file (type pdf)
-<use images/Pulse2.pdf>
-Package pdftex.def Info: images/Pulse2.pdf  used on input line 69.
-(pdftex.def)             Requested size: 238.4064pt x 162.11717pt.
-
-[36
-
- <./images/Pulse2.pdf>]
-<images/Pulse2-Fourier.pdf, id=1150, 693.59125pt x 494.94098pt>
-File: images/Pulse2-Fourier.pdf Graphic file (type pdf)
-<use images/Pulse2-Fourier.pdf>
-Package pdftex.def Info: images/Pulse2-Fourier.pdf  used on input line 78.
-(pdftex.def)             Requested size: 227.1819pt x 162.11717pt.
- [37
-
- <./images/Pulse2-Fourier.pdf>])
-(chapters/fourier-playground.tex [38
-
-] [39
-
-] [40
-
-] [41
-
-] [42
-
-] [43
-
-] [44
-
-] [45
-
-]
-[46
-
-] [47
-
-] [48
-
-] [49
-
-] [50
-
-] [51
-
-] [52
-
-] [53
-
-] [54
-
-] [55
-
-] [56
-
-] [57
-
-]
-LaTeX Font Info:    Font shape `T1/calligra/m/n' will be
-(Font)              scaled to size 24.08995pt on input line 144.
-LaTeX Font Info:    Font shape `T1/calligra/m/n' will be
-(Font)              scaled to size 17.59998pt on input line 144.
-LaTeX Font Info:    Font shape `T1/calligra/m/n' will be
-(Font)              scaled to size 13.19998pt on input line 144.
- [58
-
-] [59
-
-] [60
-
-]
-[61
-
-] [62
-
-] [63
-
-] [64
-
-] [65
-
-] [66
-
-] [67
-
-] [68
-
-] [69
-
-] [70
-
-] [71
-
-] [72
-
-] [73
-
-] [74
-
-] [75
-
-]
-[76
-
-]
-<images/Pulse3-Fourier.pdf, id=2315, 693.59125pt x 493.60788pt>
-File: images/Pulse3-Fourier.pdf Graphic file (type pdf)
-<use images/Pulse3-Fourier.pdf>
-Package pdftex.def Info: images/Pulse3-Fourier.pdf  used on input line 253.
-(pdftex.def)             Requested size: 227.79573pt x 162.11717pt.
- [77
-
- <./images/Pulse3-Fourier.pdf>]
-<images/Pulse3.pdf, id=2364, 727.85991pt x 493.60788pt>
-File: images/Pulse3.pdf Graphic file (type pdf)
-<use images/Pulse3.pdf>
-Package pdftex.def Info: images/Pulse3.pdf  used on input line 262.
-(pdftex.def)             Requested size: 239.05057pt x 162.11717pt.
- [78
-
- <./images/Pulse3.pdf>]
-LaTeX Font Info:    Font shape `T1/calligra/m/n' will be
-(Font)              scaled to size 26.39996pt on input line 270.
- [79
-
 ])
-[80
+Overfull \hbox (17.75095pt too wide) has occurred while \output is active
+ [][][][]  
+ []
 
-]
-
-LaTeX Warning: Citation 'Djairo' undefined on input line 35.
-
-
-LaTeX Warning: Citation 'PhilPanof' undefined on input line 35.
-
-
-LaTeX Warning: Citation 'Fleming' undefined on input line 35.
-
-
-LaTeX Warning: Citation 'Shankar' undefined on input line 35.
-
-
-LaTeX Warning: Empty bibliography on input line 38.
-
-[81
-
-] [82
+[12
 
 ]
 \tf@nav=\write9
@@ -1929,65 +1736,34 @@ LaTeX Warning: Empty bibliography on input line 38.
 \tf@snm=\write11
 \openout11 = `main.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 46.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 46.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 54.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 54.
  (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 46.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 46.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 54.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 54.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B85024A7CEA0A087DC4EABA204B40482;465.
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
+(rerunfilecheck)             Checksum: A17B7F238490C484A52E44B18B4AC2BB;240.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40844 strings out of 492450
- 794359 string characters out of 3120004
- 1265933 words of memory out of 3000000
- 44357 multiletter control sequences out of 15000+200000
- 549898 words of font info for 86 fonts, out of 3000000 for 9000
+ 40361 strings out of 492450
+ 785978 string characters out of 3120004
+ 1264094 words of memory out of 3000000
+ 44060 multiletter control sequences out of 15000+200000
+ 535668 words of font info for 35 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,15n,78p,800b,1956s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\dunna\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/public/calligra/dpi
-528\callig15.pk> <C:\Users\dunna\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/publi
-c/calligra/dpi704\callig15.pk> <C:\Users\dunna\AppData\Local\MiKTeX\2.9\fonts/p
-k/ljfour/public/calligra/dpi964\callig15.pk><C:/Users/dunna/AppData/Local/Progr
-ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><C:/Users/dunna/AppDa
-ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/User
-s/dunna/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12
-.pfb><C:/Users/dunna/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmex10.pfb><C:/Users/dunna/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmmi10.pfb><C:/Users/dunna/AppData/Local/Programs/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/dunna/AppData/Local/Progr
-ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/dunna/AppData
-/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/d
-unna/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
-><C:/Users/dunna/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmr12.pfb><C:/Users/dunna/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmr6.pfb><C:/Users/dunna/AppData/Local/Programs/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/dunna/AppData/Local/Programs/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/dunna/AppData/Local/P
-rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/dunna/Ap
-pData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/U
-sers/dunna/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cms
-s8.pfb><C:/Users/dunna/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmssbx10.pfb><C:/Users/dunna/AppData/Local/Programs/MiKTeX 2.9/fonts/t
-ype1/public/amsfonts/cm/cmsy10.pfb><C:/Users/dunna/AppData/Local/Programs/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/dunna/AppData/Local/Pr
-ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/dunna/AppD
-ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (82 pages, 1212199 bytes).
+<C:/Users/dunna/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmss10.pfb><C:/Users/dunna/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmss12.pfb><C:/Users/dunna/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/dunna/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/dunna/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
+Output written on main.pdf (12 pages, 130851 bytes).
 PDF statistics:
- 2641 PDF objects out of 2984 (max. 8388607)
- 173 named destinations out of 1000 (max. 500000)
- 167 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 395 PDF objects out of 1000 (max. 8388607)
+ 30 named destinations out of 1000 (max. 500000)
+ 83 words of extra memory for PDF output out of 10000 (max. 10000000)
 

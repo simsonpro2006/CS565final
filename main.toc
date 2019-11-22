@@ -1,12 +1,10 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {english}{}
 \defcounter {refsection}{0}\relax 
-\beamer@sectionintoc {1}{A Silly Idea}{3}{0}{1}
+\beamer@sectionintoc {1}{Setting Up The Database}{3}{0}{1}
 \defcounter {refsection}{0}\relax 
-\beamer@sectionintoc {2}{Playing Around With Our New Toy}{24}{0}{2}
+\beamer@sectionintoc {2}{Our Code}{5}{0}{2}
 \defcounter {refsection}{0}\relax 
-\beamer@sectionintoc {3}{Fourier's Physics Playground}{38}{0}{3}
+\beamer@sectionintoc {3}{Live Demo}{8}{0}{3}
 \defcounter {refsection}{0}\relax 
-\beamer@subsectionintoc {3}{1}{Maxwell's Electrodynamics}{38}{0}{3}
-\defcounter {refsection}{0}\relax 
-\beamer@subsectionintoc {3}{2}{Heisenberg's Uncertainty Principle}{69}{0}{3}
+\beamer@sectionintoc {4}{Conclusion and References}{10}{0}{4}
