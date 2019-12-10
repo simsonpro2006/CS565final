@@ -1,0 +1,12 @@
+\frametitle{Robot Python2 - Server Request}
+\begin{verbatim}
+		# Get request result from spark webserver
+		r = requests.get("http://35.226.85.38:80/?author=" +
+		    str(author), timeout=5)
+		
+		# Convert request to json object
+		data = r.json()
+	
+		# Say quote
+		say = str(data['quote']) + ". " + str(data['author'])
+		\end{verbatim}

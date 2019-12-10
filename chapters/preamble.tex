@@ -8,6 +8,13 @@
 \usepackage{tcolorbox}
 \usepackage{pstricks}
 \usepackage[backend=biber, bibstyle=nature, sorting=nty, citestyle=numeric-comp]{biblatex} %Custom bibliography
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd{\@verbatim}
+{\verbatim@font}
+{\verbatim@font\small}
+{}{}
+\makeatother
 \addbibresource{bib.bib} %Load references
 
 
